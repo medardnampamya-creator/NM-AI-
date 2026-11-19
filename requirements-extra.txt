@@ -1,0 +1,7 @@
+# Optional: music + speech generation (large download; GPU helps)
+transformers
+torch
+scipy
+numpy
+pyttsx3
+# Also install ffmpeg (ffmpeg.org) and add it to PATH for make_video / media editing
